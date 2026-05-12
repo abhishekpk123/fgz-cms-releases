@@ -1,0 +1,12 @@
+{
+  "latestVersion": "1.0.0",
+  "releaseDate": "2026-05-09",
+  "downloadUrl": "",
+  "fileSizeBytes": 0,
+  "sha256": "",
+  "releaseNotes": [
+    "Initial release"
+  ],
+  "mandatory": false,
+  "minSupportedVersion": "1.0.0"
+}
