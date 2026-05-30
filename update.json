@@ -1,14 +1,11 @@
 {
-  "latestVersion": "1.0.1",
-  "releaseDate": "2026-05-12",
-  "downloadUrl": "https://github.com/abhishekpk123/fgz-cms-releases/releases/download/v1.0.1/FGZ.CMS.Setup.1.0.1.exe",
-  "fileSizeBytes": 170929113,
-  "sha256": "0543607207F84178A1AF7CBDC84C592204E466188FDE379B2B930F6DF3005922",
+  "latestVersion": "1.0.2",
+  "releaseDate": "2026-05-30",
+  "downloadUrl": "https://github.com/abhishekpk123/fgz-cms-releases/releases/download/v1.0.2/FGZ.CMS.Setup.1.0.2.exe",
+  "fileSizeBytes": 170921910,
+  "sha256": "A741B140C106E207B0FF5ABA312860D7BE97AE8F91D9AA3E3EBB4FADEB622BFD",
   "releaseNotes": [
-    "Added All Customers screen",
-    "Fixed search input backspace bug",
-    "Fixed Issue Token and Take Back token input",
-    "Alignment fixes on Add Customer page"
+    "Added Staff Note field — staff can now add and edit a note on any customer card"
   ],
   "mandatory": false,
   "minSupportedVersion": "1.0.0"
