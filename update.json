@@ -1,11 +1,13 @@
 {
-  "latestVersion": "1.0.2",
-  "releaseDate": "2026-05-30",
-  "downloadUrl": "https://github.com/abhishekpk123/fgz-cms-releases/releases/download/v1.0.2/FGZ.CMS.Setup.1.0.2.exe",
-  "fileSizeBytes": 170921910,
-  "sha256": "A741B140C106E207B0FF5ABA312860D7BE97AE8F91D9AA3E3EBB4FADEB622BFD",
+  "latestVersion": "1.0.3",
+  "releaseDate": "2026-06-22",
+  "downloadUrl": "https://github.com/abhishekpk123/fgz-cms-releases/releases/download/v1.0.3/FGZ.CMS.Setup.1.0.3.exe",
+  "fileSizeBytes": 170918427,
+  "sha256": "A550E1F9CEE31B93D63295BB005449A3D19285ACFCAD041DCB1CFC98454827F4",
   "releaseNotes": [
-    "Added Staff Note field — staff can now add and edit a note on any customer card"
+    "Added Card Status field to Edit Customer (Active/Suspended/Expired) — replaces Suspend/Reactivate buttons",
+    "Added editable Games Remaining field with audit log entry",
+    "Fixed +/- sign display for balance adjustments in Transaction History"
   ],
   "mandatory": false,
   "minSupportedVersion": "1.0.0"
