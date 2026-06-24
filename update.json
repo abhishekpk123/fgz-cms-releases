@@ -1,13 +1,13 @@
 {
-  "latestVersion": "1.0.4",
+  "latestVersion": "1.0.5",
   "releaseDate": "2026-06-24",
-  "downloadUrl": "https://github.com/abhishekpk123/fgz-cms-releases/releases/download/v1.0.4/FGZ.CMS.Setup.1.0.4.exe",
-  "fileSizeBytes": 170927019,
-  "sha256": "1FF3133F979906C172440870229224E1DBE8AD01EC114E0F079077777411FB5F",
+  "downloadUrl": "https://github.com/abhishekpk123/fgz-cms-releases/releases/download/v1.0.5/FGZ.CMS.Setup.1.0.5.exe",
+  "fileSizeBytes": 170927001,
+  "sha256": "CDB1182FEF874A188AA4E3BD9C237024A3596E597C3F1C0C3F554394028E642E",
   "releaseNotes": [
     "Added Fix Date Formats tool to repair legacy date formats from old imports",
-    "Expiry Date sort no longer gets confused by unreadable legacy dates",
-    "Expiry Date custom-date filter now matches legacy-format dates correctly"
+    "Expiry Date filters redesigned: Expiring soon / Expired before",
+    "Date filters now work correctly even with legacy-format dates"
   ],
   "mandatory": false,
   "minSupportedVersion": "1.0.0"
