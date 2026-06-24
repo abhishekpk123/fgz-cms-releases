@@ -1,13 +1,13 @@
 {
-  "latestVersion": "1.0.3",
-  "releaseDate": "2026-06-22",
-  "downloadUrl": "https://github.com/abhishekpk123/fgz-cms-releases/releases/download/v1.0.3/FGZ.CMS.Setup.1.0.3.exe",
-  "fileSizeBytes": 170918427,
-  "sha256": "A550E1F9CEE31B93D63295BB005449A3D19285ACFCAD041DCB1CFC98454827F4",
+  "latestVersion": "1.0.4",
+  "releaseDate": "2026-06-24",
+  "downloadUrl": "https://github.com/abhishekpk123/fgz-cms-releases/releases/download/v1.0.4/FGZ.CMS.Setup.1.0.4.exe",
+  "fileSizeBytes": 170927019,
+  "sha256": "1FF3133F979906C172440870229224E1DBE8AD01EC114E0F079077777411FB5F",
   "releaseNotes": [
-    "Added Card Status field to Edit Customer (Active/Suspended/Expired) — replaces Suspend/Reactivate buttons",
-    "Added editable Games Remaining field with audit log entry",
-    "Fixed +/- sign display for balance adjustments in Transaction History"
+    "Added Fix Date Formats tool to repair legacy date formats from old imports",
+    "Expiry Date sort no longer gets confused by unreadable legacy dates",
+    "Expiry Date custom-date filter now matches legacy-format dates correctly"
   ],
   "mandatory": false,
   "minSupportedVersion": "1.0.0"
