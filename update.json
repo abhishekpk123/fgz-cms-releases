@@ -1,13 +1,10 @@
 {
-     "latestVersion": "1.0.6",
-     "releaseDate": "2026-06-24",
-     "downloadUrl": "https://github.com/abhishekpk123/fgz-cms-releases/releases/download/v1.0.6/FGZ.CMS.Setup.1.0.6.exe",
-     "fileSizeBytes": 170932877,
-     "sha256": "95AA3B479C3E342FFABDF6ADE4AC37E314D1D009A02C43F19176A9F6D83CC559",
-     "releaseNotes": [
-       "Fixed crash during update download when antivirus locks the installer",
-       "Improved error handling to show friendly messages instead of crashes"
-     ],
-     "mandatory": false,
-     "minSupportedVersion": "1.0.0"
-   }
+  "latestVersion": "1.0.7",
+  "releaseDate": "2026-06-25",
+  "downloadUrl": "https://github.com/abhishekpk123/fgz-cms-releases/releases/download/v1.0.6/FGZ.CMS.Setup.1.0.6.exe",
+  "fileSizeBytes": 170932877,
+  "sha256": "95AA3B479C3E342FFABDF6ADE4AC37E314D1D009A02C43F19176A9F6D83CC559",
+  "releaseNotes": ["TEST ONLY \u2014 verifying v1.0.6 fix"],
+  "mandatory": false,
+  "minSupportedVersion": "1.0.0"
+}
