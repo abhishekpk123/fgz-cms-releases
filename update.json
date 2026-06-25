@@ -1,14 +1,10 @@
 {
-  "latestVersion": "1.0.5",
-  "releaseDate": "2026-06-24",
-  "downloadUrl": "https://github.com/abhishekpk123/fgz-cms-releases/releases/download/v1.0.5/FGZ.CMS.Setup.1.0.5.exe",
-  "fileSizeBytes": 170927001,
-  "sha256": "CDB1182FEF874A188AA4E3BD9C237024A3596E597C3F1C0C3F554394028E642E",
-  "releaseNotes": [
-    "Added Fix Date Formats tool to repair legacy date formats from old imports",
-    "Expiry Date filters redesigned: Expiring soon / Expired before",
-    "Date filters now work correctly even with legacy-format dates"
-  ],
-  "mandatory": false,
-  "minSupportedVersion": "1.0.0"
-}
+     "latestVersion": "1.0.6",
+     "releaseDate": "2026-06-24",
+     "downloadUrl": "https://github.com/abhishekpk123/fgz-cms-releases/releases/download/v1.0.5/FGZ.CMS.Setup.1.0.5.exe",
+     "fileSizeBytes": 170927001,
+     "sha256": "CDB1182FEF874A188AA4E3BD9C237024A3596E597C3F1C0C3F554394028E642E",
+     "releaseNotes": ["Testing v1.0.6 error handling"],
+     "mandatory": false,
+     "minSupportedVersion": "1.0.0"
+   }
