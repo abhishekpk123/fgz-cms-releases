@@ -1,12 +1,12 @@
 {
-  "latestVersion": "1.0.6",
-  "releaseDate": "2026-06-24",
-  "downloadUrl": "https://github.com/abhishekpk123/fgz-cms-releases/releases/download/v1.0.6/FGZ.CMS.Setup.1.0.6.exe",
-  "fileSizeBytes": 170932877,
-  "sha256": "95AA3B479C3E342FFABDF6ADE4AC37E314D1D009A02C43F19176A9F6D83CC559",
+  "latestVersion": "1.0.7",
+  "releaseDate": "2026-07-18",
+  "downloadUrl": "https://github.com/abhishekpk123/fgz-cms-releases/releases/download/v1.0.7/FGZ.CMS.Setup.1.0.7.exe",
+  "fileSizeBytes": 170932882,
+  "sha256": "50A0D002E8CBDD89345FCD7272B436F3AC7C1609E6F80FA529CB5EBE5D32176E",
   "releaseNotes": [
-    "Fixed crash during update download when antivirus locks the installer",
-    "Improved error handling to show friendly messages instead of crashes"
+    "Fixed Edit Customer overlay scroll issue — content no longer hidden on shorter screens",
+    "Edit Customer overlay redesigned to a 2-column layout"
   ],
   "mandatory": false,
   "minSupportedVersion": "1.0.0"
