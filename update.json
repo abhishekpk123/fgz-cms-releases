@@ -1,12 +1,12 @@
 {
-  "latestVersion": "1.0.7",
-  "releaseDate": "2026-07-18",
-  "downloadUrl": "https://github.com/abhishekpk123/fgz-cms-releases/releases/download/v1.0.7/FGZ.CMS.Setup.1.0.7.exe",
-  "fileSizeBytes": 170932882,
-  "sha256": "50A0D002E8CBDD89345FCD7272B436F3AC7C1609E6F80FA529CB5EBE5D32176E",
+  "latestVersion": "1.0.8",
+  "releaseDate": "2026-08-10",
+  "downloadUrl": "https://github.com/abhishekpk123/fgz-cms-releases/releases/download/v1.0.8/FGZ.CMS.Setup.1.0.8.exe",
+  "fileSizeBytes": 170933238,
+  "sha256": "840D946A1EADCFBD1FD3C4D1906E0BE381DA4C02EB5FD671A5983C7E25088C81",
   "releaseNotes": [
-    "Fixed Edit Customer overlay scroll issue — content no longer hidden on shorter screens",
-    "Edit Customer overlay redesigned to a 2-column layout"
+    "Redesigned Take Back / Issue Token buttons into a compact +/- row",
+    "Top-Up Card button moved below the +/- row"
   ],
   "mandatory": false,
   "minSupportedVersion": "1.0.0"
