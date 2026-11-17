@@ -1,14 +1,15 @@
 {
-  "latestVersion": "1.1.3",
-  "releaseDate": "2026-11-14",
-  "downloadUrl": "https://github.com/abhishekpk123/fgz-cms-releases/releases/download/v1.1.3/FGZ.CMS.Setup.1.1.3.exe",
-  "fileSizeBytes": 170854314,
-  "sha256": "65306E0B5A6D1FF0A75BEB12D3FFB962E39EDE44FA4B0364BF2D1391782F98F0",
+  "latestVersion": "1.1.4",
+  "releaseDate": "2026-11-17",
+  "downloadUrl": "https://github.com/abhishekpk123/fgz-cms-releases/releases/download/v1.1.4/FGZ.CMS.Setup.1.1.4.exe",
+  "fileSizeBytes": 170856686,
+  "sha256": "1A2A58B5B4F37E0E55C562D4A8B45C1526223298B7B54B246A1A2BBA17413E41",
   "releaseNotes": [
-    "Packages can now be edited from Settings: price, games, bonus games and validity",
-    "New packages can be added, and old ones retired or reordered",
-    "Every package change is recorded in a change log",
-    "New About page with app, database and backup details"
+    "Updates download more reliably and are no longer blocked by a leftover file from an earlier update",
+    "Closing FGZ CMS during an update download no longer crashes it; the download simply stops",
+    "Install Now closes FGZ CMS fully before installing, and the app reopens by itself afterwards",
+    "The daily Telegram backup now includes the full database plus customer and transaction CSV files",
+    "Every Telegram backup now includes a customer file for each package"
   ],
   "mandatory": false,
   "minSupportedVersion": "1.0.0"
