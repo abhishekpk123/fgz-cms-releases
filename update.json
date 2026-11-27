@@ -1,15 +1,15 @@
 {
-  "latestVersion": "1.1.4",
-  "releaseDate": "2026-11-17",
-  "downloadUrl": "https://github.com/abhishekpk123/fgz-cms-releases/releases/download/v1.1.4/FGZ.CMS.Setup.1.1.4.exe",
-  "fileSizeBytes": 170856686,
-  "sha256": "1A2A58B5B4F37E0E55C562D4A8B45C1526223298B7B54B246A1A2BBA17413E41",
+  "latestVersion": "1.1.5",
+  "releaseDate": "2026-11-27",
+  "downloadUrl": "https://github.com/abhishekpk123/fgz-cms-releases/releases/download/v1.1.5/FGZ.CMS.Setup.1.1.5.exe",
+  "fileSizeBytes": 170878280,
+  "sha256": "D90C58FD8A7E265E09C6C83FC01D0972F610D49573F30645BF2D922622B1448E",
   "releaseNotes": [
-    "Updates download more reliably and are no longer blocked by a leftover file from an earlier update",
-    "Closing FGZ CMS during an update download no longer crashes it; the download simply stops",
-    "Install Now closes FGZ CMS fully before installing, and the app reopens by itself afterwards",
-    "The daily Telegram backup now includes the full database plus customer and transaction CSV files",
-    "Every Telegram backup now includes a customer file for each package"
+    "Icons across the app are now clear, consistent icons instead of emojis",
+    "FGZ CMS now shows a message when an update is available, and you can install it right from that message",
+    "Game ID is now called Card No on every screen and in exported and backup files",
+    "FGZ CMS now opens maximized to fill the screen",
+    "The daily Telegram backup now runs at 8:45 PM, and the time can be changed on the Backup tab"
   ],
   "mandatory": false,
   "minSupportedVersion": "1.0.0"
